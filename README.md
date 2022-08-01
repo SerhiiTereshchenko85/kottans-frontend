@@ -1,3 +1,7 @@
+# Hello! 
+My name is Sergey!
+And I am grateful for this course. I wish everyone success in their studies!
+
 # Git та GitHub
 Listened to weeks 1 and 2 of the Introduction to Git and GitHub course, and
 learned a lot of new things.
