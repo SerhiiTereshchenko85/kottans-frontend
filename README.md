@@ -1,5 +1,5 @@
 # Hello! 
-My name is Sergey!
+My name is Sehii!
 And I am grateful for this course. I wish everyone success in their studies!
 
 # Git та GitHub
