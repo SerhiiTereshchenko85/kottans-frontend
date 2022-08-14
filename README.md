@@ -2,7 +2,7 @@
 My name is Serhii!
 And I am grateful for this course. I wish everyone success in their studies!
 
-# Git & GitHub
+# Git & GitHub.
 1. Listened to weeks 1 and 2 of the Introduction to Git and GitHub course, and
 learned a lot of new things.
 
@@ -27,3 +27,12 @@ I was surprised by how easily some tasks are solved, although at first glance ev
 
 In the future, I think I will look into "Learn Git Branching" for repetition of the material.
 
+## Linux CLI, and HTTP.
+
+1. Linux Survival (4 modules).
+
+After going through four modules, I learned a little about Linux, or rather, many different commands with which I did not have to work in Windows. How to remember them all? :)
+
+Almost all the commands were new to me, some are intuitive, as they are abbreviations.
+
+Will I use them often in my daily work? I think yes.
