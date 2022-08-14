@@ -37,4 +37,4 @@ Almost all the commands were new to me, some are intuitive, as they are abbrevia
 
 Will I use them often in my daily work? I think yes.
 
-For more details, see the [SET TRANSACTION ISOLATION LEVEL](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_linux_cli) reference.
+For more details, see the [Quiz screenshots](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_linux_cli) reference.
