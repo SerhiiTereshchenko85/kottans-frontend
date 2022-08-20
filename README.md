@@ -36,5 +36,3 @@ After going through four modules, I learned a little about Linux, or rather, man
 Almost all the commands were new to me, some are intuitive, as they are abbreviations.
 
 Will I use them often in my daily work? I think yes.
-
-For more details, see the [SET TRANSACTION ISOLATION LEVEL](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_linux_cli) reference.
