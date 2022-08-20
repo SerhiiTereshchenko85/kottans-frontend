@@ -38,13 +38,3 @@ Almost all the commands were new to me, some are intuitive, as they are abbrevia
 Will I use them often in my daily work? I think yes.
 
 For more details, see the [Quiz screenshots](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_linux_cli) reference.
-
-2. HTTP: The Protocol Every Web Developer Must Know—Part 1.
-
-In the first part of the article, I learned about request / response messages, found out what request methods exist and their status codes. Some codes are familiar to me, for example, everyone knows the 404 sign, the meaning of which, I think, everyone knows. I got acquainted with the structure of the URL address.
-Understanding HTTP is very important and this knowledge will be useful for creating a network infrastructure.
-
-HTTP: The Protocol Every Web Developer Must Know—Part 2.
-
-In the second part of the article, I learned about the implementation of connections, identification / authentication and caching. Thanks to these guides, I got an idea of ​​the variety of issues solved by the HTTP protocol and a sufficient number of tips for further study of this protocol.
-Everything that I read in the first and second parts of the article about the HTTP protocol was new for me.
