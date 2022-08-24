@@ -58,4 +58,4 @@ Learned the process of merging, fetching and pushing remote branches, and rebasi
 2. In the 4th module, I continued to study the tools for collaboration in Git. Learned how to use code review in github. Learned what code review is and what the code review workflow looks like. Learned how to use code review on GitHub. I also reviewed the best practices for project management and collaboration management in these projects, which was new for me.
 I will put into practice everything that I learned in module 3 and 4.
 
-For more details, see the [Quiz screenshots](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_git_collaboration) reference.
+For more details, see the [screenshots](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_git_collaboration) reference.
