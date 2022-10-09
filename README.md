@@ -59,3 +59,11 @@ Learned the process of merging, fetching and pushing remote branches, and rebasi
 I will put into practice everything that I learned in module 3 and 4.
 
 For more details, see the [screenshots](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_git_collaboration) reference.
+
+## Intro to HTML and CSS
+
+I learned a lot of new things, although I have been learning HTML and CSS for a long time.
+I was surprised how CSS can change the style of the content on the page.
+In the future, all the knowledge that I learned from these lessons will be useful.
+
+For more details, see the [screenshots](https://github.com/SerhiiTereshchenko85/kottans-frontend/tree/main/task_html_css_intro) reference.
